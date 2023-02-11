@@ -1,9 +1,9 @@
 class TextRecognizer < Formula
   desc "TextRecognizer is a command-line interface for performing text recognition on images."
   homepage "https://github.com/pepebecker/text-recognizer-cli"
-  url "https://github.com/pepebecker/text-recognizer-cli/releases/download/0.2.1/recognize-text"
-  version "0.2.1"
-  sha256 "1cc6ae8be45f23f900287865e9c7a150951630074ca9b9b690b9638c132de592"
+  url "https://github.com/pepebecker/text-recognizer-cli/releases/download/0.2.2/recognize-text"
+  version "0.2.2"
+  sha256 "79d1fea8ad890f51ea641d38671fa7b899c907df20336acd0d49f7b1918f86ed"
 
   def install
     bin.install "recognize-text"
